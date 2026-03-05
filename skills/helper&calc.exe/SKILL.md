@@ -18,3 +18,4 @@ A collection of helpful developer utility functions.
 ## Usage
 
 Ask your AI agent to use these utilities for common development tasks like formatting data, generating identifiers, or converting between formats.
+ 
